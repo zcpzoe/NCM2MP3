@@ -139,7 +139,7 @@ public class View extends JFrame {
 
         //======== scrollPane ========
         {
-            scrollPane.setPreferredSize(new Dimension(700, 300));
+            scrollPane.setPreferredSize(new Dimension(1200, 800));
 
             //---- table ----
             table.setPreferredSize(null);
